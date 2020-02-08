@@ -8,5 +8,6 @@ some conflict issues, what can I do next?
 
 OK, just follws the instruction then no conflict
 
+2020-02-07 How to make a good DASHBORD for Industrial, like Maintenance department Dashboard!!!
 
 
